@@ -79,4 +79,4 @@ DEMO
 
 
 
-    ![image alt](https://github.com/Raiyan-RB19/PRODIGY_CS_01/blob/47ae4dca71ad1d959f5d2797cc411d910306bdb2/Sample%20Output.png)
+ ![image alt](https://github.com/Raiyan-RB19/PRODIGY_CS_01/blob/47ae4dca71ad1d959f5d2797cc411d910306bdb2/Sample%20Output.png)
